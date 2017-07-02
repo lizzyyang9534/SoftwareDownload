@@ -1,0 +1,2 @@
+[19-Jul-2015 12:32:56 UTC] PHP Notice:  Undefined index: uploadFile in /home/programmer/softauth01/public_html/downloadTest/test/up.php on line 14
+[19-Jul-2015 12:32:56 UTC] PHP Notice:  Undefined index: uploadFile in /home/programmer/softauth01/public_html/downloadTest/test/up.php on line 16
